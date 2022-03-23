@@ -7,4 +7,4 @@
 2. Понимание принципов ООП
 3. Навыки работы с Git
 
-![](https://github.com/apstenku/courework-git/tree/main/img/photo.png)
+![](https://github.com/apstenku/courework-git/blob/main/img/photo.png)
